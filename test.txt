@@ -2,5 +2,8 @@ This updated a test file with some changes
 This is a test file
 
 some changes done in the Local Branch
+This is a test file
+
+Added a new feature in development branch
 
 ABC
